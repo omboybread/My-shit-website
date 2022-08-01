@@ -14,13 +14,17 @@ html, body {
 }
 
 #cpplogo{
-  margin-left: 333px;
+  margin-left: 320px;
 }
 
 .yay{
-  text-align: center;
+  margin-left: 333px;
 }
 
-.yayp{
-  text-align: center;
+.yayy{
+  margin-left: 666px;
+}
+
+#jslogo{
+  margin-left: 669px;
 }
