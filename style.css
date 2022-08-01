@@ -1,0 +1,26 @@
+html, body {
+  
+  background-color: #030F18;
+  color: #ffffff;
+}
+
+#noo{
+  text-align: center;
+  text-decoration: underline;
+}
+
+#intro{
+  text-align: center;
+}
+
+#cpplogo{
+  margin-left: 333px;
+}
+
+.yay{
+  text-align: center;
+}
+
+.yayp{
+  text-align: center;
+}
