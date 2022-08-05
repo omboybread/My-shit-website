@@ -1,4 +1,4 @@
-html, body {
+body {
   
   background-color: #030F18;
   color: #ffffff;
@@ -33,3 +33,9 @@ html, body {
   text-align: right;
   color: #DA0505;
 }
+
+#dickbutton{
+  height: 25px;
+  width: 250px;
+}
+
